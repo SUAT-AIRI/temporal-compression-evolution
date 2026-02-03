@@ -1,0 +1,2 @@
+Sequence,Forecast_Output,Calendar_Year_CE,BP_relative_to_2025,Description,Method_Linkage,Notes
+Civilization,Predicted civilizational transition window,2035,-10,Extrapolated future transition (singularity) window derived from fitted exponential-decay interval model.,See Methods: extrapolation adds predicted next interval to latest known node time; Figures 1–2 map to 2035±W.,BP is negative because Present_Year_for_BP is 2025. Keep as forecast output; do not mix with observed node timestamps.

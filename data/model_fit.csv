@@ -1,0 +1,3 @@
+Sequence,n_range,Intercept_ln_dt0,Slope_ln_r,Decay_r,R_squared,Notes
+Civilization,n=1..13,,,,,Natural log; r = exp(slope).
+Life,n=1..13,,,,,Natural log; r = exp(slope).

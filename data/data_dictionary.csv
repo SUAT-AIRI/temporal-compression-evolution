@@ -1,0 +1,17 @@
+Column,Meaning / Guidance
+Node_ID,Integer 1..14 in chronological order (oldest -> newest).
+Node_Name,Short milestone label 
+Time_BP_Lower,Lower bound of time estimate (years before present) if a range exists; otherwise blank.
+Time_BP_Upper,Upper bound of time estimate (years before present) if a range exists; otherwise blank.
+Time_BP_Median,Point estimate used for modeling (typically median of bounds; or best estimate).
+Unit,Use 'years BP' consistently.
+Primary_Reference,Foundational/authoritative reference supporting the milestone time and definition.
+Recent_Reference,"Recent literature (e.g., 2019–2025) supporting the milestone and/or updated evidence."
+Dating_Rationale,"One sentence: why this time is chosen (e.g., midpoint of range; consensus date; earliest robust evidence)."
+Notes,"Any additional remarks (regional variability, alternative chronologies, etc.)."
+Interval_Delta_t,Δt between adjacent nodes: Time_BP[n] - Time_BP[n+1].
+Log_Interval_ln,ln(Δt) for regression.
+Slope_ln_r,Regression slope in ln-space (equals ln(r)).
+Intercept_ln_dt0,Regression intercept in ln-space (equals ln(Δt0)).
+Decay_r,Decay coefficient r = exp(Slope_ln_r).
+R_squared,R² from the linear regression in ln-space.
