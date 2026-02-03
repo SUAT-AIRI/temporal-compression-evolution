@@ -1,0 +1,22 @@
+{
+  "title": "Milestone database and analysis code for 'Civilizational Dynamics and the Evolution of Life Based on an Exponential Decay Model' (double-blind package)",
+  "upload_type": "dataset",
+  "description": "Milestone node dates (Life + Civilization), derived inter-event intervals, log-transformed series, and minimal analysis code to reproduce the core log-linear exponential decay fit reported in the associated manuscript. Prepared for double-blind review; replace placeholders (DOI, version, creators) as appropriate.",
+  "creators": [
+    {
+      "name": "Anonymous (double-blind submission)"
+    }
+  ],
+  "access_right": "embargoed",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "exponential decay",
+    "milestones",
+    "civilizational dynamics",
+    "evolution",
+    "time series",
+    "inter-event intervals"
+  ],
+  "version": "1.0.0",
+  "notes": "After reserving a DOI on Zenodo, replace the DOI placeholder in the manuscript Data Availability statement and in this metadata."
+}

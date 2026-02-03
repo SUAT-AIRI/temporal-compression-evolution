@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite this dataset."
+title: "Milestone database and analysis code for an exponential-decay model of life and civilization dynamics (double-blind package)"
+version: "1.0.0"
+date-released: "2026-02-03"
+authors:
+  - name: "Anonymous (double-blind submission)"
+license: "CC-BY-4.0"
+keywords:
+  - "exponential decay"
+  - "milestone model"
+  - "civilizational dynamics"
+  - "evolution of life"
+  - "inter-event intervals"
